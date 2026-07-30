@@ -36,7 +36,7 @@
       I design and build <strong>cloud-native applications on AWS</strong> — systems that scale automatically, cost less to run, and stay reliable under real production load.
     </p>
     <p>
-      My focus has shifted deliberately toward <strong>serverless architecture</strong>: event-driven systems built on <strong>Lambda, API Gateway, DynamoDB, SQS, and SNS</strong>, paired with modern frontends in <strong>Next.js</strong> and <strong>React</strong>, and shipped fast with <strong>AWS Amplify</strong>. The value I bring isn't just writing code — it's designing systems where infrastructure decisions and business decisions line up: pay for what you use, scale only what needs scaling, and keep the whole thing maintainable by a small team.
+      My focus has shifted deliberately toward <strong>serverless architecture</strong>: event-driven systems built on <strong>Lambda, API Gateway, DynamoDB, SQS, and SNS</strong>, paired with modern frontends in <strong>Next.js</strong> and <strong>React</strong>, and shipped fast with <strong>AWS Amplify</strong>. The value I bring isn't just writing code, it's designing systems where infrastructure decisions and business decisions line up: pay for what you use, scale only what needs scaling, and keep the whole thing maintainable by a small team.
     </p>
     <p>
       I hold the <strong>AWS Certified Cloud Practitioner</strong> certification and bring that cloud-native lens to every layer of the stack, from database schema to deployment pipeline.
@@ -89,18 +89,9 @@
 
   <br/>
 
-  <img src="https://img.shields.io/badge/-AWS%20Amplify-FF9900?style=for-the-badge&logo=awsamplify&logoColor=white" alt="AWS Amplify">
-  <img src="https://img.shields.io/badge/-Lambda-FF9900?style=for-the-badge&logo=awslambda&logoColor=white" alt="AWS Lambda">
-  <img src="https://img.shields.io/badge/-API%20Gateway-FF9900?style=for-the-badge&logo=amazonapigateway&logoColor=white" alt="Amazon API Gateway">
-  <img src="https://img.shields.io/badge/-DynamoDB-4053D6?style=for-the-badge&logo=amazondynamodb&logoColor=white" alt="Amazon DynamoDB">
-  <br/>
-  <img src="https://img.shields.io/badge/-SQS-FF4F8B?style=for-the-badge&logo=amazonsqs&logoColor=white" alt="Amazon SQS">
-  <img src="https://img.shields.io/badge/-SNS-FF4F8B?style=for-the-badge&logo=amazonsns&logoColor=white" alt="Amazon SNS">
-  <img src="https://img.shields.io/badge/-S3-569A31?style=for-the-badge&logo=amazons3&logoColor=white" alt="Amazon S3">
-  <img src="https://img.shields.io/badge/-IAM-DD344C?style=for-the-badge&logo=amazoniam&logoColor=white" alt="AWS IAM">
-  <img src="https://img.shields.io/badge/-CloudWatch-FF9900?style=for-the-badge&logo=amazoncloudwatch&logoColor=white" alt="Amazon CloudWatch">
+  <img src="assets/readme/badges-aws-core.svg" alt="Core AWS badges: Amplify, Lambda, API Gateway, DynamoDB, SNS, SQS, S3, IAM, CloudWatch, SAM">
 
-  <br/><br/>
+  <br/>
 
   <!-- Full-Stack Toolkit Header -->
   <picture>
@@ -132,12 +123,8 @@
           Event-driven, serverless transaction monitoring and real-time fraud detection engine. Ingests and scores transactions through a fully decoupled AWS pipeline.
         </p>
         <p>
-          <img src="https://img.shields.io/badge/-AWS%20SAM-FF9900?style=flat-square&logo=amazonaws&logoColor=white" alt="AWS SAM">
-          <img src="https://img.shields.io/badge/-API%20Gateway-FF9900?style=flat-square&logo=amazonapigateway&logoColor=white" alt="API Gateway">
-          <img src="https://img.shields.io/badge/-SQS-FF4F8B?style=flat-square&logo=amazonsqs&logoColor=white" alt="SQS">
-          <img src="https://img.shields.io/badge/-Lambda-FF9900?style=flat-square&logo=awslambda&logoColor=white" alt="Lambda">
-          <img src="https://img.shields.io/badge/-DynamoDB-4053D6?style=flat-square&logo=amazondynamodb&logoColor=white" alt="DynamoDB">
-          <img src="https://img.shields.io/badge/-SNS-FF4F8B?style=flat-square&logo=amazonsns&logoColor=white" alt="SNS">
+          <img src="assets/readme/badges-project-sentrynode.svg" alt="SentryNode AWS badges: API Gateway, SQS, Lambda, DynamoDB, SNS, AWS SAM" width="100%">
+          <br/>
           <img src="https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript">
         </p>
         <p>
@@ -153,10 +140,9 @@
         </p>
         <p>
           <img src="https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js">
-          <img src="https://img.shields.io/badge/-Lambda-FF9900?style=flat-square&logo=awslambda&logoColor=white" alt="Lambda">
-          <img src="https://img.shields.io/badge/-API%20Gateway-FF9900?style=flat-square&logo=amazonapigateway&logoColor=white" alt="API Gateway">
-          <img src="https://img.shields.io/badge/-DynamoDB-4053D6?style=flat-square&logo=amazondynamodb&logoColor=white" alt="DynamoDB">
           <img src="https://img.shields.io/badge/-Tailwind%20CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" alt="Tailwind CSS">
+          <br/>
+          <img src="assets/readme/badges-project-cafe.svg" alt="Smart Cafe AWS badges: Lambda, API Gateway, DynamoDB" width="100%">
         </p>
         <p>
           <a href="https://github.com/s-aduk/ubuntu-smart-cafe">
@@ -196,7 +182,7 @@
   <div align="left">
     <br/>
     <p>
-      I'm looking to join a team where I can own systems end-to-end — from architecture and database design through deployment — and where serverless isn't a buzzword but an operating principle. If you're building something in that space, I'd welcome the conversation.
+      I'm looking to join a team where I can own systems end-to-end, from architecture and database design through deployment, and where serverless isn't a buzzword but an operating principle. If you're building something in that space, I'd welcome the conversation.
     </p>
   </div>
 
