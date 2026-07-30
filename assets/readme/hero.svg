@@ -1,10 +1,73 @@
-<svg width="1200" height="400" viewBox="0 0 1200 400" xmlns="http://www.w3.org/2000/svg">
-  <title>Stephen Adu Kwarteng - Full-Stack Engineer &amp; AWS Cloud Practitioner Hero Banner</title>
-  <rect width="100%" height="100%" fill="#0a0a0a"/>
-  <text x="50%" y="50%" text-anchor="middle" dy="0.1em" fill="#f8fafc" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-weight="800" font-size="48" letter-spacing="-0.5px">
+<svg width="1200" height="440" viewBox="0 0 1200 440" xmlns="http://www.w3.org/2000/svg">
+  <title>Stephen Adu Kwarteng - Cloud Native Developer, AWS Serverless Engineer, Full-Stack</title>
+  <defs>
+    <linearGradient id="bgGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#0a0a0a" />
+      <stop offset="55%" style="stop-color:#0a0f0e" />
+      <stop offset="100%" style="stop-color:#0a0a0a" />
+    </linearGradient>
+    <radialGradient id="glow" cx="50%" cy="38%" r="60%">
+      <stop offset="0%" style="stop-color:#14b8a6;stop-opacity:0.16" />
+      <stop offset="100%" style="stop-color:#14b8a6;stop-opacity:0" />
+    </radialGradient>
+    <linearGradient id="nameGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#f8fafc" />
+      <stop offset="100%" style="stop-color:#5eead4" />
+    </linearGradient>
+  </defs>
+
+  <rect width="100%" height="100%" fill="url(#bgGrad)"/>
+  <rect width="100%" height="100%" fill="url(#glow)"/>
+
+  <!-- top accent rule -->
+  <rect x="0" y="0" width="100%" height="3" fill="#14b8a6"/>
+
+  <!-- Name -->
+  <text x="50%" y="118" text-anchor="middle" fill="url(#nameGrad)" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-weight="800" font-size="52" letter-spacing="-1px">
     Stephen Adu Kwarteng
   </text>
-  <text x="50%" y="65%" text-anchor="middle" dy="0.1em" fill="#64748b" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-weight="400" font-size="24" letter-spacing="-0.2px">
-    Full-Stack Engineer (MERN + Next.js) - AWS Cloud Practitioner
+
+  <!-- Headline -->
+  <text x="50%" y="168" text-anchor="middle" fill="#e2e8f0" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-weight="500" font-size="23" letter-spacing="0.2px">
+    Cloud Native Developer  ·  AWS Serverless Engineer  ·  Full-Stack
   </text>
+
+  <!-- divider -->
+  <line x1="450" y1="204" x2="750" y2="204" stroke="#1f2937" stroke-width="1.5"/>
+  <circle cx="600" cy="204" r="3" fill="#14b8a6"/>
+
+  <!-- Service pills -->
+  <g font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-weight="600" font-size="15">
+    <!-- Amplify -->
+    <rect x="145" y="238" width="130" height="40" rx="20" fill="#111827" stroke="#14b8a6" stroke-width="1"/>
+    <text x="210" y="263" text-anchor="middle" fill="#5eead4">Amplify</text>
+
+    <!-- Lambda -->
+    <rect x="290" y="238" width="120" height="40" rx="20" fill="#111827" stroke="#14b8a6" stroke-width="1"/>
+    <text x="350" y="263" text-anchor="middle" fill="#5eead4">Lambda</text>
+
+    <!-- API Gateway -->
+    <rect x="425" y="238" width="175" height="40" rx="20" fill="#111827" stroke="#14b8a6" stroke-width="1"/>
+    <text x="512" y="263" text-anchor="middle" fill="#5eead4">API Gateway</text>
+
+    <!-- DynamoDB -->
+    <rect x="615" y="238" width="155" height="40" rx="20" fill="#111827" stroke="#14b8a6" stroke-width="1"/>
+    <text x="692" y="263" text-anchor="middle" fill="#5eead4">DynamoDB</text>
+
+    <!-- SQS/SNS -->
+    <rect x="785" y="238" width="140" height="40" rx="20" fill="#111827" stroke="#14b8a6" stroke-width="1"/>
+    <text x="855" y="263" text-anchor="middle" fill="#5eead4">SQS / SNS</text>
+
+    <!-- Next.js -->
+    <rect x="940" y="238" width="120" height="40" rx="20" fill="#111827" stroke="#6366f1" stroke-width="1"/>
+    <text x="1000" y="263" text-anchor="middle" fill="#a5b4fc">Next.js</text>
+  </g>
+
+  <!-- tagline -->
+  <text x="50%" y="335" text-anchor="middle" fill="#64748b" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-weight="400" font-size="16" letter-spacing="0.3px">
+    Designing event-driven systems that scale on demand and cost nothing when idle
+  </text>
+
+  <!-- bottom accent rule -->
+  <rect x="0" y="437" width="100%" height="3" fill="#14b8a6"/>
 </svg>
