@@ -89,9 +89,18 @@
 
   <br/>
 
-  <img src="assets/readme/badges-aws-core.svg" alt="Core AWS badges: Amplify, Lambda, API Gateway, DynamoDB, SNS, SQS, S3, IAM, CloudWatch, SAM">
-
+  <img src="https://img.shields.io/badge/AWS%20Amplify-FF9900?style=for-the-badge&logoColor=white" alt="AWS Amplify">
+  <img src="https://img.shields.io/badge/Lambda-FF9900?style=for-the-badge&logoColor=white" alt="AWS Lambda">
+  <img src="https://img.shields.io/badge/API%20Gateway-FF9900?style=for-the-badge&logoColor=white" alt="Amazon API Gateway">
+  <img src="https://img.shields.io/badge/DynamoDB-4053D6?style=for-the-badge&logoColor=white" alt="Amazon DynamoDB">
   <br/>
+  <img src="https://img.shields.io/badge/SQS-E7157B?style=for-the-badge&logoColor=white" alt="Amazon SQS">
+  <img src="https://img.shields.io/badge/SNS-E7157B?style=for-the-badge&logoColor=white" alt="Amazon SNS">
+  <img src="https://img.shields.io/badge/S3-569A31?style=for-the-badge&logoColor=white" alt="Amazon S3">
+  <img src="https://img.shields.io/badge/IAM-DD344C?style=for-the-badge&logoColor=white" alt="AWS IAM">
+  <img src="https://img.shields.io/badge/CloudWatch-E7157B?style=for-the-badge&logoColor=white" alt="Amazon CloudWatch">
+
+  <br/><br/>
 
   <!-- Full-Stack Toolkit Header -->
   <picture>
@@ -123,8 +132,12 @@
           Event-driven, serverless transaction monitoring and real-time fraud detection engine. Ingests and scores transactions through a fully decoupled AWS pipeline.
         </p>
         <p>
-          <img src="assets/readme/badges-project-sentrynode.svg" alt="SentryNode AWS badges: API Gateway, SQS, Lambda, DynamoDB, SNS, AWS SAM" width="100%">
-          <br/>
+          <img src="https://img.shields.io/badge/AWS%20SAM-FF9900?style=flat-square&logoColor=white" alt="AWS SAM">
+          <img src="https://img.shields.io/badge/API%20Gateway-FF9900?style=flat-square&logoColor=white" alt="API Gateway">
+          <img src="https://img.shields.io/badge/SQS-E7157B?style=flat-square&logoColor=white" alt="SQS">
+          <img src="https://img.shields.io/badge/Lambda-FF9900?style=flat-square&logoColor=white" alt="Lambda">
+          <img src="https://img.shields.io/badge/DynamoDB-4053D6?style=flat-square&logoColor=white" alt="DynamoDB">
+          <img src="https://img.shields.io/badge/SNS-E7157B?style=flat-square&logoColor=white" alt="SNS">
           <img src="https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript">
         </p>
         <p>
@@ -140,9 +153,10 @@
         </p>
         <p>
           <img src="https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js">
+          <img src="https://img.shields.io/badge/Lambda-FF9900?style=flat-square&logoColor=white" alt="Lambda">
+          <img src="https://img.shields.io/badge/API%20Gateway-FF9900?style=flat-square&logoColor=white" alt="API Gateway">
+          <img src="https://img.shields.io/badge/DynamoDB-4053D6?style=flat-square&logoColor=white" alt="DynamoDB">
           <img src="https://img.shields.io/badge/-Tailwind%20CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" alt="Tailwind CSS">
-          <br/>
-          <img src="assets/readme/badges-project-cafe.svg" alt="Smart Cafe AWS badges: Lambda, API Gateway, DynamoDB" width="100%">
         </p>
         <p>
           <a href="https://github.com/s-aduk/ubuntu-smart-cafe">
