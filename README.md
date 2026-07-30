@@ -36,7 +36,7 @@
       I design and build <strong>cloud-native applications on AWS</strong> — systems that scale automatically, cost less to run, and stay reliable under real production load.
     </p>
     <p>
-      My focus has shifted deliberately toward <strong>serverless architecture</strong>: event-driven systems built on <strong>Lambda, API Gateway, DynamoDB, SQS, and SNS</strong>, paired with modern frontends in <strong>Next.js</strong> and <strong>React</strong>, and shipped fast with <strong>AWS Amplify</strong>. The value I bring isn't just writing code, it's designing systems where infrastructure decisions and business decisions line up: pay for what you use, scale only what needs scaling, and keep the whole thing maintainable by a small team.
+      My focus has shifted deliberately toward <strong>serverless architecture</strong>: event-driven systems built on <strong>Lambda, API Gateway, DynamoDB, SQS, and SNS</strong>, paired with modern frontends in <strong>Next.js</strong> and <strong>React</strong>, and shipped fast with <strong>AWS Amplify</strong>. The value I bring isn't just writing code — it's designing systems where infrastructure decisions and business decisions line up: pay for what you use, scale only what needs scaling, and keep the whole thing maintainable by a small team.
     </p>
     <p>
       I hold the <strong>AWS Certified Cloud Practitioner</strong> certification and bring that cloud-native lens to every layer of the stack, from database schema to deployment pipeline.
@@ -182,7 +182,7 @@
   <div align="left">
     <br/>
     <p>
-      I'm looking to join a team where I can own systems end-to-end, from architecture and database design through deployment, and where serverless isn't a buzzword but an operating principle. If you're building something in that space, I'd welcome the conversation.
+      I'm looking to join a team where I can own systems end-to-end — from architecture and database design through deployment — and where serverless isn't a buzzword but an operating principle. If you're building something in that space, I'd welcome the conversation.
     </p>
   </div>
 
