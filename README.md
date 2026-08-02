@@ -126,7 +126,7 @@
 
   <table width="100%">
     <tr>
-      <td width="50%" valign="top">
+      <td width="33%" valign="top">
         <h3>🏗️ SentryNode Fraud Engine</h3>
         <p>
           Event-driven, serverless transaction monitoring and real-time fraud detection engine. Ingests and scores transactions through a fully decoupled AWS pipeline.
@@ -146,7 +146,7 @@
           </a>
         </p>
       </td>
-      <td width="50%" valign="top">
+      <td width="33%" valign="top">
         <h3>☕ Ubuntu Smart Cafe</h3>
         <p>
           Serverless, full-stack Smart Cafe platform — ordering and operations built entirely on managed AWS infrastructure, with zero servers to maintain.
@@ -160,6 +160,25 @@
         </p>
         <p>
           <a href="https://github.com/s-aduk/ubuntu-smart-cafe">
+            <img src="https://img.shields.io/badge/View%20Repository-0d1117?style=flat-square&logo=github&logoColor=white" alt="View Repository">
+          </a>
+        </p>
+      </td>
+      <td width="33%" valign="top">
+        <h3>🔍 MediFind</h3>
+        <p>
+          Medical information discovery platform built with AWS serverless technologies to help users find relevant healthcare information and resources.
+        </p>
+        <p>
+          <img src="https://img.shields.io/badge/AWS%20Lambda-FF9900?style=flat-square&logoColor=white" alt="AWS Lambda">
+          <img src="https://img.shields.io/badge/API%20Gateway-FF9900?style=flat-square&logoColor=white" alt="API Gateway">
+          <img src="https://img.shields.io/badge/DynamoDB-4053D6?style=flat-square&logoColor=white" alt="DynamoDB">
+          <img src="https://img.shields.io/badge/SQS-E7157B?style=flat-square&logoColor=white" alt="SQS">
+          <img src="https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=white" alt="React">
+          <img src="https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript">
+        </p>
+        <p>
+          <a href="https://github.com/s-aduk/MediFind">
             <img src="https://img.shields.io/badge/View%20Repository-0d1117?style=flat-square&logo=github&logoColor=white" alt="View Repository">
           </a>
         </p>
