@@ -1,19 +1,70 @@
 <svg width="1200" height="80" viewBox="0 0 1200 80" xmlns="http://www.w3.org/2000/svg">
   <title>GitHub Stats Section Header</title>
   <defs>
-    <linearGradient id="headerGradstats" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" style="stop-color:#0a0a0a;stop-opacity:0" />
-      <stop offset="50%" style="stop-color:#0a0a0a;stop-opacity:0.3" />
-      <stop offset="100%" style="stop-color:#0a0a0a;stop-opacity:0" />
+    <linearGradient id="fade-METRICS" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#081A29;stop-opacity:1" />
+      <stop offset="85%" style="stop-color:#081A29;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#081A29;stop-opacity:0" />
     </linearGradient>
+    <mask id="mask-METRICS">
+      <rect width="100%" height="100%" fill="url(#fade-METRICS)"/>
+    </mask>
   </defs>
-  <rect width="100%" height="100%" fill="#0a0a0a" />
-  <rect x="0" y="0" width="4" height="100%" fill="#6366f1" />
-  <rect width="100%" height="100%" fill="url(#headerGradstats)" />
-  <text x="20" y="50%" dy="0.35em" fill="#f8fafc" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-weight="600" font-size="24" letter-spacing="-0.2px">
-    GitHub Stats
-  </text>
-  <text x="1180" y="50%" dy="0.35em" text-anchor="end" fill="#6366f1" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-weight="500" font-size="14" letter-spacing="1.5px">
-    06 / STATS
-  </text>
+
+  <rect width="100%" height="100%" fill="#081A29"/>
+  <g mask="url(#mask-METRICS)">
+    <line x1="0" y1="0" x2="0" y2="80" stroke="#173049" stroke-width="1" opacity="0.8"/>
+    <line x1="40" y1="0" x2="40" y2="80" stroke="#173049" stroke-width="1" opacity="0.8"/>
+    <line x1="80" y1="0" x2="80" y2="80" stroke="#173049" stroke-width="1" opacity="0.8"/>
+    <line x1="120" y1="0" x2="120" y2="80" stroke="#173049" stroke-width="1" opacity="0.8"/>
+    <line x1="160" y1="0" x2="160" y2="80" stroke="#173049" stroke-width="1" opacity="0.8"/>
+    <line x1="200" y1="0" x2="200" y2="80" stroke="#173049" stroke-width="1" opacity="0.8"/>
+    <line x1="240" y1="0" x2="240" y2="80" stroke="#173049" stroke-width="1" opacity="0.8"/>
+    <line x1="280" y1="0" x2="280" y2="80" stroke="#173049" stroke-width="1" opacity="0.8"/>
+    <line x1="320" y1="0" x2="320" y2="80" stroke="#173049" stroke-width="1" opacity="0.8"/>
+    <line x1="360" y1="0" x2="360" y2="80" stroke="#173049" stroke-width="1" opacity="0.8"/>
+    <line x1="400" y1="0" x2="400" y2="80" stroke="#173049" stroke-width="1" opacity="0.8"/>
+    <line x1="440" y1="0" x2="440" y2="80" stroke="#173049" stroke-width="1" opacity="0.8"/>
+    <line x1="480" y1="0" x2="480" y2="80" stroke="#173049" stroke-width="1" opacity="0.8"/>
+    <line x1="520" y1="0" x2="520" y2="80" stroke="#173049" stroke-width="1" opacity="0.8"/>
+    <line x1="560" y1="0" x2="560" y2="80" stroke="#173049" stroke-width="1" opacity="0.8"/>
+    <line x1="600" y1="0" x2="600" y2="80" stroke="#173049" stroke-width="1" opacity="0.8"/>
+    <line x1="640" y1="0" x2="640" y2="80" stroke="#173049" stroke-width="1" opacity="0.8"/>
+    <line x1="680" y1="0" x2="680" y2="80" stroke="#173049" stroke-width="1" opacity="0.8"/>
+    <line x1="720" y1="0" x2="720" y2="80" stroke="#173049" stroke-width="1" opacity="0.8"/>
+    <line x1="760" y1="0" x2="760" y2="80" stroke="#173049" stroke-width="1" opacity="0.8"/>
+    <line x1="800" y1="0" x2="800" y2="80" stroke="#173049" stroke-width="1" opacity="0.8"/>
+    <line x1="840" y1="0" x2="840" y2="80" stroke="#173049" stroke-width="1" opacity="0.8"/>
+    <line x1="880" y1="0" x2="880" y2="80" stroke="#173049" stroke-width="1" opacity="0.8"/>
+    <line x1="920" y1="0" x2="920" y2="80" stroke="#173049" stroke-width="1" opacity="0.8"/>
+    <line x1="960" y1="0" x2="960" y2="80" stroke="#173049" stroke-width="1" opacity="0.8"/>
+    <line x1="1000" y1="0" x2="1000" y2="80" stroke="#173049" stroke-width="1" opacity="0.8"/>
+    <line x1="1040" y1="0" x2="1040" y2="80" stroke="#173049" stroke-width="1" opacity="0.8"/>
+    <line x1="1080" y1="0" x2="1080" y2="80" stroke="#173049" stroke-width="1" opacity="0.8"/>
+    <line x1="1120" y1="0" x2="1120" y2="80" stroke="#173049" stroke-width="1" opacity="0.8"/>
+    <line x1="1160" y1="0" x2="1160" y2="80" stroke="#173049" stroke-width="1" opacity="0.8"/>
+    <line x1="1200" y1="0" x2="1200" y2="80" stroke="#173049" stroke-width="1" opacity="0.8"/>
+    <line x1="0" y1="0" x2="1200" y2="0" stroke="#173049" stroke-width="1" opacity="0.8"/>
+    <line x1="0" y1="40" x2="1200" y2="40" stroke="#173049" stroke-width="1" opacity="0.8"/>
+    <line x1="0" y1="80" x2="1200" y2="80" stroke="#173049" stroke-width="1" opacity="0.8"/>
+  </g>
+
+  <!-- top / bottom hairlines -->
+  <line x1="0" y1="0.5" x2="1200" y2="0.5" stroke="#173049" stroke-width="1"/>
+  <line x1="0" y1="79.5" x2="1200" y2="79.5" stroke="#173049" stroke-width="1"/>
+
+  <!-- accent stripe -->
+  <rect x="0" y="0" width="4" height="100%" fill="#FF6A3D"/>
+
+  <!-- title -->
+  <text x="34" y="50%" dy="0.35em" fill="#EAF3F8" font-family="'Overpass','Segoe UI',Helvetica,Arial,sans-serif" font-weight="800" font-size="25" letter-spacing="-0.3px">GitHub Stats</text>
+
+  <!-- sheet tag, right aligned -->
+  <text x="1166" y="50%" dy="0.35em" text-anchor="end" fill="#FF6A3D" font-family="'IBM Plex Mono','SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace" font-weight="600" font-size="12.5" letter-spacing="2px">SHEET 06 / METRICS</text>
+
+  <!-- corner registration ticks -->
+  <path d="M8 20 V8 H20" fill="none" stroke="#2C4F6B" stroke-width="1.2"/>
+    <path d="M1180 8 H1192 V20" fill="none" stroke="#2C4F6B" stroke-width="1.2"/>
+    <path d="M8 60 V72 H20" fill="none" stroke="#2C4F6B" stroke-width="1.2"/>
+    <path d="M1180 72 H1192 V60" fill="none" stroke="#2C4F6B" stroke-width="1.2"/>
 </svg>

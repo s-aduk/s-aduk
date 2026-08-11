@@ -1,73 +1,120 @@
 <svg width="1200" height="440" viewBox="0 0 1200 440" xmlns="http://www.w3.org/2000/svg">
   <title>Stephen Adu Kwarteng - Cloud Native Developer, AWS Serverless Engineer, Full-Stack</title>
   <defs>
-    <linearGradient id="bgGrad" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" style="stop-color:#0a0a0a" />
-      <stop offset="55%" style="stop-color:#0a0f0e" />
-      <stop offset="100%" style="stop-color:#0a0a0a" />
-    </linearGradient>
-    <radialGradient id="glow" cx="50%" cy="38%" r="60%">
-      <stop offset="0%" style="stop-color:#14b8a6;stop-opacity:0.16" />
-      <stop offset="100%" style="stop-color:#14b8a6;stop-opacity:0" />
+    <radialGradient id="glow" cx="50%" cy="34%" r="60%">
+      <stop offset="0%" style="stop-color:#FF6A3D;stop-opacity:0.10" />
+      <stop offset="100%" style="stop-color:#FF6A3D;stop-opacity:0" />
     </radialGradient>
-    <linearGradient id="nameGrad" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" style="stop-color:#f8fafc" />
-      <stop offset="100%" style="stop-color:#5eead4" />
-    </linearGradient>
+    <mask id="heroMask">
+      <radialGradient id="heroMaskGrad" cx="50%" cy="0%" r="85%">
+        <stop offset="0%" stop-color="white" stop-opacity="0.9"/>
+        <stop offset="65%" stop-color="white" stop-opacity="0.5"/>
+        <stop offset="100%" stop-color="white" stop-opacity="0"/>
+      </radialGradient>
+      <rect width="100%" height="100%" fill="url(#heroMaskGrad)"/>
+    </mask>
   </defs>
 
-  <rect width="100%" height="100%" fill="url(#bgGrad)"/>
+  <rect width="100%" height="100%" fill="#081A29"/>
+  <g mask="url(#heroMask)">
+    <line x1="0" y1="0" x2="0" y2="440" stroke="#173049" stroke-width="1" opacity="0.7"/>
+    <line x1="40" y1="0" x2="40" y2="440" stroke="#173049" stroke-width="1" opacity="0.7"/>
+    <line x1="80" y1="0" x2="80" y2="440" stroke="#173049" stroke-width="1" opacity="0.7"/>
+    <line x1="120" y1="0" x2="120" y2="440" stroke="#173049" stroke-width="1" opacity="0.7"/>
+    <line x1="160" y1="0" x2="160" y2="440" stroke="#173049" stroke-width="1" opacity="0.7"/>
+    <line x1="200" y1="0" x2="200" y2="440" stroke="#173049" stroke-width="1" opacity="0.7"/>
+    <line x1="240" y1="0" x2="240" y2="440" stroke="#173049" stroke-width="1" opacity="0.7"/>
+    <line x1="280" y1="0" x2="280" y2="440" stroke="#173049" stroke-width="1" opacity="0.7"/>
+    <line x1="320" y1="0" x2="320" y2="440" stroke="#173049" stroke-width="1" opacity="0.7"/>
+    <line x1="360" y1="0" x2="360" y2="440" stroke="#173049" stroke-width="1" opacity="0.7"/>
+    <line x1="400" y1="0" x2="400" y2="440" stroke="#173049" stroke-width="1" opacity="0.7"/>
+    <line x1="440" y1="0" x2="440" y2="440" stroke="#173049" stroke-width="1" opacity="0.7"/>
+    <line x1="480" y1="0" x2="480" y2="440" stroke="#173049" stroke-width="1" opacity="0.7"/>
+    <line x1="520" y1="0" x2="520" y2="440" stroke="#173049" stroke-width="1" opacity="0.7"/>
+    <line x1="560" y1="0" x2="560" y2="440" stroke="#173049" stroke-width="1" opacity="0.7"/>
+    <line x1="600" y1="0" x2="600" y2="440" stroke="#173049" stroke-width="1" opacity="0.7"/>
+    <line x1="640" y1="0" x2="640" y2="440" stroke="#173049" stroke-width="1" opacity="0.7"/>
+    <line x1="680" y1="0" x2="680" y2="440" stroke="#173049" stroke-width="1" opacity="0.7"/>
+    <line x1="720" y1="0" x2="720" y2="440" stroke="#173049" stroke-width="1" opacity="0.7"/>
+    <line x1="760" y1="0" x2="760" y2="440" stroke="#173049" stroke-width="1" opacity="0.7"/>
+    <line x1="800" y1="0" x2="800" y2="440" stroke="#173049" stroke-width="1" opacity="0.7"/>
+    <line x1="840" y1="0" x2="840" y2="440" stroke="#173049" stroke-width="1" opacity="0.7"/>
+    <line x1="880" y1="0" x2="880" y2="440" stroke="#173049" stroke-width="1" opacity="0.7"/>
+    <line x1="920" y1="0" x2="920" y2="440" stroke="#173049" stroke-width="1" opacity="0.7"/>
+    <line x1="960" y1="0" x2="960" y2="440" stroke="#173049" stroke-width="1" opacity="0.7"/>
+    <line x1="1000" y1="0" x2="1000" y2="440" stroke="#173049" stroke-width="1" opacity="0.7"/>
+    <line x1="1040" y1="0" x2="1040" y2="440" stroke="#173049" stroke-width="1" opacity="0.7"/>
+    <line x1="1080" y1="0" x2="1080" y2="440" stroke="#173049" stroke-width="1" opacity="0.7"/>
+    <line x1="1120" y1="0" x2="1120" y2="440" stroke="#173049" stroke-width="1" opacity="0.7"/>
+    <line x1="1160" y1="0" x2="1160" y2="440" stroke="#173049" stroke-width="1" opacity="0.7"/>
+    <line x1="1200" y1="0" x2="1200" y2="440" stroke="#173049" stroke-width="1" opacity="0.7"/>
+    <line x1="0" y1="0" x2="1200" y2="0" stroke="#173049" stroke-width="1" opacity="0.7"/>
+    <line x1="0" y1="40" x2="1200" y2="40" stroke="#173049" stroke-width="1" opacity="0.7"/>
+    <line x1="0" y1="80" x2="1200" y2="80" stroke="#173049" stroke-width="1" opacity="0.7"/>
+    <line x1="0" y1="120" x2="1200" y2="120" stroke="#173049" stroke-width="1" opacity="0.7"/>
+    <line x1="0" y1="160" x2="1200" y2="160" stroke="#173049" stroke-width="1" opacity="0.7"/>
+    <line x1="0" y1="200" x2="1200" y2="200" stroke="#173049" stroke-width="1" opacity="0.7"/>
+    <line x1="0" y1="240" x2="1200" y2="240" stroke="#173049" stroke-width="1" opacity="0.7"/>
+    <line x1="0" y1="280" x2="1200" y2="280" stroke="#173049" stroke-width="1" opacity="0.7"/>
+    <line x1="0" y1="320" x2="1200" y2="320" stroke="#173049" stroke-width="1" opacity="0.7"/>
+    <line x1="0" y1="360" x2="1200" y2="360" stroke="#173049" stroke-width="1" opacity="0.7"/>
+    <line x1="0" y1="400" x2="1200" y2="400" stroke="#173049" stroke-width="1" opacity="0.7"/>
+    <line x1="0" y1="440" x2="1200" y2="440" stroke="#173049" stroke-width="1" opacity="0.7"/>
+  </g>
   <rect width="100%" height="100%" fill="url(#glow)"/>
 
-  <!-- top accent rule -->
-  <rect x="0" y="0" width="100%" height="3" fill="#14b8a6"/>
+  <!-- top / bottom accent rules -->
+  <rect x="0" y="0" width="100%" height="2" fill="#FF6A3D"/>
+  <rect x="0" y="438" width="100%" height="2" fill="#FF6A3D"/>
+
+  <!-- corner registration ticks -->
+  <path d="M18 36 V18 H36" fill="none" stroke="#2C4F6B" stroke-width="1.4"/>
+    <path d="M1164 18 H1182 V36" fill="none" stroke="#2C4F6B" stroke-width="1.4"/>
+    <path d="M18 404 V422 H36" fill="none" stroke="#2C4F6B" stroke-width="1.4"/>
+    <path d="M1164 422 H1182 V404" fill="none" stroke="#2C4F6B" stroke-width="1.4"/>
+
+  <!-- sheet tag -->
+  <line x1="40" y1="46" x2="62" y2="46" stroke="#FF6A3D" stroke-width="1.4"/>
+  <text x="70" y="50" fill="#FF6A3D" font-family="'IBM Plex Mono','SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace" font-weight="600" font-size="12.5" letter-spacing="2.4px">SHEET 00 / PROFILE</text>
+
+  <!-- available badge -->
+  <g>
+    <rect x="964" y="30" width="196" height="32" rx="16" fill="rgba(90,217,163,0.08)" stroke="#5AD9A3" stroke-width="1"/>
+    <circle cx="988" cy="46" r="4" fill="#5AD9A3"/>
+    <text x="1002" y="50" fill="#5AD9A3" font-family="'IBM Plex Mono','SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace" font-weight="600" font-size="11" letter-spacing="1.6px">OPEN TO REMOTE ROLES</text>
+  </g>
 
   <!-- Name -->
-  <text x="50%" y="118" text-anchor="middle" fill="url(#nameGrad)" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-weight="800" font-size="52" letter-spacing="-1px">
-    Stephen Adu Kwarteng
+  <text x="50%" y="150" text-anchor="middle" fill="#EAF3F8" font-family="'Overpass','Segoe UI',Helvetica,Arial,sans-serif" font-weight="800" font-size="54" letter-spacing="-1.4px">
+    STEPHEN ADU KWARTENG
   </text>
 
   <!-- Headline -->
-  <text x="50%" y="168" text-anchor="middle" fill="#e2e8f0" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-weight="500" font-size="23" letter-spacing="0.2px">
-    Cloud Native Developer  ·  AWS Serverless Engineer  ·  Full-Stack
+  <text x="50%" y="192" text-anchor="middle" fill="#C9DEEA" font-family="'IBM Plex Mono','SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace" font-weight="500" font-size="15" letter-spacing="1.5px">
+    CLOUD NATIVE DEVELOPER &#183; AWS SERVERLESS ENGINEER &#183; FULL-STACK
   </text>
 
   <!-- divider -->
-  <line x1="450" y1="204" x2="750" y2="204" stroke="#1f2937" stroke-width="1.5"/>
-  <circle cx="600" cy="204" r="3" fill="#14b8a6"/>
-
-  <!-- Service pills -->
-  <g font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-weight="600" font-size="15">
-    <!-- Amplify -->
-    <rect x="145" y="238" width="130" height="40" rx="20" fill="#111827" stroke="#14b8a6" stroke-width="1"/>
-    <text x="210" y="263" text-anchor="middle" fill="#5eead4">Amplify</text>
-
-    <!-- Lambda -->
-    <rect x="290" y="238" width="120" height="40" rx="20" fill="#111827" stroke="#14b8a6" stroke-width="1"/>
-    <text x="350" y="263" text-anchor="middle" fill="#5eead4">Lambda</text>
-
-    <!-- API Gateway -->
-    <rect x="425" y="238" width="175" height="40" rx="20" fill="#111827" stroke="#14b8a6" stroke-width="1"/>
-    <text x="512" y="263" text-anchor="middle" fill="#5eead4">API Gateway</text>
-
-    <!-- DynamoDB -->
-    <rect x="615" y="238" width="155" height="40" rx="20" fill="#111827" stroke="#14b8a6" stroke-width="1"/>
-    <text x="692" y="263" text-anchor="middle" fill="#5eead4">DynamoDB</text>
-
-    <!-- SQS/SNS -->
-    <rect x="785" y="238" width="140" height="40" rx="20" fill="#111827" stroke="#14b8a6" stroke-width="1"/>
-    <text x="855" y="263" text-anchor="middle" fill="#5eead4">SQS / SNS</text>
-
-    <!-- Next.js -->
-    <rect x="940" y="238" width="120" height="40" rx="20" fill="#111827" stroke="#6366f1" stroke-width="1"/>
-    <text x="1000" y="263" text-anchor="middle" fill="#a5b4fc">Next.js</text>
-  </g>
+  <line x1="460" y1="222" x2="740" y2="222" stroke="#2C4F6B" stroke-width="1"/>
+  <circle cx="600" cy="222" r="3" fill="#FF6A3D"/>
 
   <!-- tagline -->
-  <text x="50%" y="335" text-anchor="middle" fill="#64748b" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-weight="400" font-size="16" letter-spacing="0.3px">
+  <text x="50%" y="262" text-anchor="middle" fill="#7EA0B8" font-family="'Public Sans','Segoe UI',Helvetica,Arial,sans-serif" font-weight="400" font-size="15.5" letter-spacing="0.2px">
     Designing event-driven systems that scale on demand and cost nothing when idle
   </text>
 
-  <!-- bottom accent rule -->
-  <rect x="0" y="437" width="100%" height="3" fill="#14b8a6"/>
+  <!-- service pills -->
+  <g>
+    <rect x="130.5" y="300" width="165" height="40" rx="2" fill="#0F2C46" stroke="#2C4F6B" stroke-width="1"/><text x="213.0" y="325.0" text-anchor="middle" fill="#C9DEEA" font-family="'IBM Plex Mono','SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace" font-weight="500" font-size="13" letter-spacing="0.5px">AWS Amplify</text>
+<rect x="311.5" y="300" width="118" height="40" rx="2" fill="#0F2C46" stroke="#2C4F6B" stroke-width="1"/><text x="370.5" y="325.0" text-anchor="middle" fill="#C9DEEA" font-family="'IBM Plex Mono','SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace" font-weight="500" font-size="13" letter-spacing="0.5px">Lambda</text>
+<rect x="445.5" y="300" width="168" height="40" rx="2" fill="#0F2C46" stroke="#2C4F6B" stroke-width="1"/><text x="529.5" y="325.0" text-anchor="middle" fill="#C9DEEA" font-family="'IBM Plex Mono','SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace" font-weight="500" font-size="13" letter-spacing="0.5px">API Gateway</text>
+<rect x="629.5" y="300" width="148" height="40" rx="2" fill="#0F2C46" stroke="#2C4F6B" stroke-width="1"/><text x="703.5" y="325.0" text-anchor="middle" fill="#C9DEEA" font-family="'IBM Plex Mono','SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace" font-weight="500" font-size="13" letter-spacing="0.5px">DynamoDB</text>
+<rect x="793.5" y="300" width="142" height="40" rx="2" fill="#0F2C46" stroke="#2C4F6B" stroke-width="1"/><text x="864.5" y="325.0" text-anchor="middle" fill="#C9DEEA" font-family="'IBM Plex Mono','SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace" font-weight="500" font-size="13" letter-spacing="0.5px">SQS / SNS</text>
+<rect x="951.5" y="300" width="118" height="40" rx="2" fill="#0F2C46" stroke="#2C4F6B" stroke-width="1"/><text x="1010.5" y="325.0" text-anchor="middle" fill="#C9DEEA" font-family="'IBM Plex Mono','SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace" font-weight="500" font-size="13" letter-spacing="0.5px">Next.js</text>
+  </g>
+
+  <!-- footer strip -->
+  <line x1="40" y1="392" x2="1160" y2="392" stroke="#173049" stroke-width="1"/>
+  <text x="40" y="416" fill="#7EA0B8" font-family="'IBM Plex Mono','SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace" font-size="10.5" letter-spacing="1.4px">DRAWN BY S. ADU KWARTENG</text>
+  <text x="1160" y="416" text-anchor="end" fill="#7EA0B8" font-family="'IBM Plex Mono','SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace" font-size="10.5" letter-spacing="1.4px">KUMASI, GH &#183; REV 2026.08</text>
 </svg>
