@@ -215,7 +215,9 @@
   </picture>
 
   <!-- GitHub Stats -->
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=s-aduk&show_icons=true&hide_border=true&bg_color=081A29&title_color=FF6A3D&icon_color=FFB648&text_color=C9DEEA&ring_color=FF6A3D" alt="GitHub stats for s-aduk showing contributions, languages, and repository activity" />
+  <div>
+    <img height="165" src="https://github-readme-stats.vercel.app/api?username=s-aduk&show_icons=true&hide_border=true&bg_color=081A29&title_color=FF6A3D&icon_color=FFB648&text_color=C9DEEA&ring_color=FF6A3D" alt="GitHub stats for s-aduk showing contributions, languages, and repository activity" />
+  </div>
 
   <br/><br/>
 
