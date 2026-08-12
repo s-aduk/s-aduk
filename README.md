@@ -48,6 +48,20 @@
 
   <br/>
 
+  <!-- Certifications Section Header -->
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/readme/section-header-certifications.svg">
+    <source media="(prefers-color-scheme: light)" srcset="assets/readme/section-header-certifications.svg">
+    <img src="assets/readme/section-header-certifications.svg" alt="Certifications" width="100%">
+  </picture>
+
+  <div align="left">
+    <br/>
+    <img src="https://img.shields.io/badge/AWS%20Certified%20Cloud%20Practitioner-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS Certified Cloud Practitioner">
+  </div>
+
+  <br/>
+
   <!-- What I Build Section Header -->
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="assets/readme/section-header-build.svg">
